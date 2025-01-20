@@ -5,5 +5,12 @@
     "animal": "perro",
     "color": "blanco",
     "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Mittens",
+    "edad": "3 años",
+    "animal": "gato",
+    "color": "gris",
+    "enfermedad": "fiebre"
   }
 ]
